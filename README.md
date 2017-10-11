@@ -1,2 +1,2 @@
-# EE101-Projext
+# EE101-Project
 EE101 final Android project——taskmanager
